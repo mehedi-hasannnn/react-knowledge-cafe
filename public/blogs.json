@@ -7,7 +7,7 @@
       "author_img": "https://images.unsplash.com/photo-1544723795-3fb6469f5b39",
       "posted_date": "2024-01-15",
       "reading_time": "8 min",
-      "hashtags": ["#futurism", "#sci-fi", "#adventure"]
+      "hashtags": ["#futurism", "#sci_fi", "#adventure"]
     },
     {
       "id": 2,
@@ -37,7 +37,7 @@
       "author_img": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d",
       "posted_date": "2024-04-22",
       "reading_time": "9 min",
-      "hashtags": ["#time-travel", "#science", "#history"]
+      "hashtags": ["#time_travel", "#science", "#history"]
     },
     {
       "id": 5,
